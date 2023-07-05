@@ -8,4 +8,5 @@ INSERT INTO `flight` (`id`, `flight_number`, `operating_airlines`, `departure_ci
 	(7, 'IG372', 'Indigo Airlines', 'DEL', 'HYD', '2020-05-26 15:00:00', '2020-05-26 17:35:07', 7000),
 	(8, 'MI500', 'Malaysia Airlines', 'HYD', 'MAL', '2020-05-30 11:30:00', '2020-05-31 08:14:07', 16500),
 	(9, 'MI501', 'Malaysia Airlines', 'MAL', 'HYD', '2020-05-25 03:00:00', '2020-05-25 07:00:07', 18000),
-	(10, 'UA1', 'United Airlines', 'HYD', 'CHI', '2020-05-16 23:00:00', '2012-05-18 10:14:07', 1800000);
+	(10, 'UK12', 'UK Airlines', 'MAL', 'HYD', '2023-05-25 03:00:00', '2025-05-25 07:00:07', 18000),
+	(11, 'UA1', 'United Airlines', 'HYD', 'CHI', '2020-05-16 23:00:00', '2012-05-18 10:14:07', 1800000);
